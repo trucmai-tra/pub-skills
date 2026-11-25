@@ -1,0 +1,14 @@
+market: VN
+location_code: 2704
+language: vi
+device: desktop
+minimum_query_count: 5
+maximum_query_count: 10
+serp_depth: 20
+maximum_rank_absolute: 20
+serp_concurrency: 10
+video_info_concurrency: 10
+channel_about_concurrency: 4
+channel_about_requests_per_second: 2
+channel_about_timeout_seconds: 20
+channel_about_max_retries: 2

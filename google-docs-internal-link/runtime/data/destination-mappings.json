@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "phrases": ["thiết kế giao diện app", "thiết kế app"],
+      "url": "https://www.canva.com/vi_vn/thiet-ke/app/",
+      "basis": "specific-anchor-protection"
+    },
+    {
+      "phrases": ["thiết kế"],
+      "url": "https://www.canva.com/vi_vn/thiet-ke/",
+      "basis": "explicit-review-feedback"
+    },
+    {
+      "phrases": ["PNG"],
+      "url": "https://www.canva.com/vi_vn/tinh-nang/tao-anh-png/",
+      "basis": "explicit-review-feedback"
+    },
+    {
+      "phrases": ["PDF"],
+      "url": "https://www.canva.com/vi_vn/chinh-sua-pdf/",
+      "basis": "explicit-review-feedback"
+    },
+    {
+      "phrases": ["mã QR", "quét mã QR"],
+      "url": "https://www.canva.com/vi_vn/qr-code-generator/",
+      "basis": "explicit-review-feedback"
+    },
+    {
+      "phrases": ["JPG", "JPEG"],
+      "url": "https://www.canva.com/vi_vn/tinh-nang/chuyen-anh-sang-jpg/",
+      "basis": "repeated-approved-review-pattern"
+    },
+    {
+      "phrases": ["MP4"],
+      "url": "https://www.canva.com/vi_vn/tinh-nang/convert-mp4/",
+      "basis": "repeated-approved-review-pattern"
+    },
+    {
+      "phrases": ["Cải thiện âm thanh"],
+      "url": "https://www.canva.com/vi_vn/tinh-nang/cai-thien-am-thanh/",
+      "basis": "explicit-review-feedback"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Canva YouTube Prospecting"
+  short_description: "Find Vietnamese YouTube outreach channels"
+  default_prompt: "Use $youtube-creator-prospecting to build YouTube channel prospects for this Canva Vietnam URL."

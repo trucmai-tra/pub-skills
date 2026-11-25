@@ -1,0 +1,191 @@
+{
+  "title": "Canva YouTube prospecting",
+  "target_url": "https://www.canva.com/vi_vn/thiet-ke/video/",
+  "generated_at": "2026-06-26T08:00:00+00:00",
+  "sheets": [
+    {
+      "name": "Auditor video queue",
+      "columns": [
+        "audit_status",
+        "auditor_notes",
+        "recipient_email",
+        "additional_public_emails",
+        "public_email_count",
+        "channel_name",
+        "channel_url",
+        "channel_subscribers",
+        "channel_total_views",
+        "public_video_count",
+        "video_priority_within_channel",
+        "video_title",
+        "video_url",
+        "video_views",
+        "google_best_rank_absolute",
+        "matched_queries",
+        "query_ranks",
+        "google_serp_occurrences",
+        "language_qualification",
+        "video_language_status",
+        "website",
+        "facebook",
+        "instagram",
+        "tiktok",
+        "linkedin",
+        "twitter_x",
+        "other_links",
+        "channel_id",
+        "video_id"
+      ],
+      "rows": [
+        {
+          "audit_status": "",
+          "auditor_notes": "",
+          "recipient_email": "creator@example.com",
+          "additional_public_emails": "team@example.com",
+          "public_email_count": 2,
+          "channel_name": "Kênh mẫu",
+          "channel_url": "https://www.youtube.com/channel/UCEXAMPLE",
+          "channel_subscribers": 12000,
+          "channel_total_views": 4200000,
+          "public_video_count": 320,
+          "video_priority_within_channel": 1,
+          "video_title": "Cách làm video bằng AI",
+          "video_url": "https://www.youtube.com/watch?v=abcdefghijk",
+          "video_views": 48000,
+          "google_best_rank_absolute": 2,
+          "matched_queries": "cách làm video bằng AI | tạo video Canva",
+          "query_ranks": "cách làm video bằng AI: 2",
+          "google_serp_occurrences": 1,
+          "language_qualification": "vietnamese_spoken_signal",
+          "video_language_status": "vietnamese_spoken_signal",
+          "website": "https://example.com",
+          "facebook": "",
+          "instagram": "https://instagram.com/example",
+          "tiktok": "",
+          "linkedin": "",
+          "twitter_x": "",
+          "other_links": "",
+          "channel_id": "UCEXAMPLE",
+          "video_id": "abcdefghijk"
+        }
+      ]
+    },
+    {
+      "name": "Channel prospects",
+      "columns": [
+        "channel_name",
+        "channel_url",
+        "channel_subscribers",
+        "public_video_count",
+        "channel_total_views",
+        "joined_date",
+        "matched_queries",
+        "language_qualification",
+        "website",
+        "instagram"
+      ],
+      "rows": [
+        {
+          "channel_name": "Kênh mẫu",
+          "channel_url": "https://www.youtube.com/channel/UCEXAMPLE",
+          "channel_subscribers": 12000,
+          "public_video_count": 320,
+          "channel_total_views": 4200000,
+          "joined_date": "2018-03-14",
+          "matched_queries": "cách làm video bằng AI | tạo video Canva",
+          "language_qualification": "vietnamese_spoken_signal",
+          "website": "https://example.com",
+          "instagram": "https://instagram.com/example"
+        }
+      ]
+    },
+    {
+      "name": "Ranking videos",
+      "columns": [
+        "title",
+        "canonical_video_url",
+        "video_views",
+        "video_likes",
+        "video_comments",
+        "google_best_rank_absolute",
+        "channel_name",
+        "video_language_status"
+      ],
+      "rows": [
+        {
+          "title": "Cách làm video bằng AI",
+          "canonical_video_url": "https://www.youtube.com/watch?v=abcdefghijk",
+          "video_views": 48000,
+          "video_likes": 1300,
+          "video_comments": 87,
+          "google_best_rank_absolute": 2,
+          "channel_name": "Kênh mẫu",
+          "video_language_status": "vietnamese_spoken_signal"
+        }
+      ]
+    },
+    {
+      "name": "SERP evidence",
+      "columns": [
+        "query",
+        "executed_query",
+        "rank_absolute",
+        "serp_item_type",
+        "raw_url",
+        "included",
+        "exclusion_reason"
+      ],
+      "rows": [
+        {
+          "query": "cách làm video bằng AI",
+          "executed_query": "cách làm video bằng AI site:youtube.com",
+          "rank_absolute": 2,
+          "serp_item_type": "organic",
+          "raw_url": "https://www.youtube.com/watch?v=abcdefghijk",
+          "included": true,
+          "exclusion_reason": ""
+        }
+      ]
+    },
+    {
+      "name": "Channel links",
+      "columns": [
+        "channel_name",
+        "link_type",
+        "label",
+        "url",
+        "source"
+      ],
+      "rows": [
+        {
+          "channel_name": "Kênh mẫu",
+          "link_type": "instagram",
+          "label": "Instagram",
+          "url": "https://instagram.com/example",
+          "source": "published_link"
+        }
+      ]
+    },
+    {
+      "name": "Language audit",
+      "columns": [
+        "title",
+        "canonical_video_url",
+        "search_language_code",
+        "subtitle_languages",
+        "auto_generated_subtitle_languages",
+        "video_language_status"
+      ],
+      "rows": [
+        {
+          "title": "Cách làm video bằng AI",
+          "canonical_video_url": "https://www.youtube.com/watch?v=abcdefghijk",
+          "search_language_code": "vi",
+          "subtitle_languages": "Vietnamese",
+          "auto_generated_subtitle_languages": "Vietnamese",
+          "video_language_status": "vietnamese_spoken_signal"
+        }
+      ]
+    }
+  ]
+}

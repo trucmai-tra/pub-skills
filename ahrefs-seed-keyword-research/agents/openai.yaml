@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ahrefs Seed Keyword Research"
+  short_description: "Research new page keywords from seed terms"
+  default_prompt: "Use $ahrefs-seed-keyword-research to research one main keyword and relevant supporting keywords for a new page from these seeds."

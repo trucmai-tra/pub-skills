@@ -1,0 +1,4 @@
+interface:
+  display_name: "Google Docs Internal Linker"
+  short_description: "Link Canva VN Docs or learn from manual revisions"
+  default_prompt: "Use $google-docs-internal-link to add Canva VN internal links to these Google Docs, or compare my revised links with the saved run and improve future picks without editing the Docs."
